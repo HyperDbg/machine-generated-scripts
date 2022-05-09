@@ -1,0 +1,40 @@
+572
+ for (; @rsi << $thread >> @rbx << @rsp >> @rdi < @rsi << $thread >> @rbx << @rsp >> @rdi;val--) { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+976
+ for (val = 10; @r9 << 0x5 >> 5 >> $ip < @r9 << 0x5 >> 5 >> $ip;val--) { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+1177
+ for (val = 10; $thread + @r12 < $thread + @r12;val--) { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+1312
+ for (val = 10; @r10 + $proc >> $buffer >= @r10 + $proc >> $buffer;val--) { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+1383
+ for (; +-@r8 + (0y1110) << @rsi << 0n14 >= @rax + $buffer << @rsp << @rbp;val--) { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } ; }
+1000
+$end$
+1593
+ for (val = 10; @rdi << (~@r13) << @rdx == @rdi << (~@r13) << @rdx;val--) { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+1689
+ for (val = 10; @rax >> @r13 > @rax >> @r13;val--) { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+1738
+ for (val = 10; 0n3 >> @rdx >> 0xA >= 0n3 >> @rdx >> 0xA;val--) { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+2010
+ for (val = 10; 21 + ~@rsp >> @rdi << @rbx >> $buffer == @r9 + -$buffer << @rsp << 0n7;val--) { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+2150
+ for (val = 10; @rdi >> @r9 << @r8 >> @rdi >> @r10 == @rdi >> @r9 << @r8 >> @rdi >> @r10;val--) { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$

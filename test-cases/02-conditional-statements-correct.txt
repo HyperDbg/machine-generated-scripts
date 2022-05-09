@@ -1,0 +1,408 @@
+61
+ if (-~16 > -~16)  { test_statement(0x8B9); }
+0
+$end$
+67
+ if (@rax + ~@r13 >> @rdx != @rax + ~@r13 >> @rdx)  { test_statement(0xEB0); }
+0
+$end$
+161
+ if (@r9 + @r13 >= @rsp + $thread >> @rbx)  { test_statement(0x1DE9); } else { test_statement(0x1D5A); }
+1DE9
+$end$
+193
+ if (0 << 0x0 >> @r10 >> $ip >> ~(@rbp) > 0 << 0x0 >> @r10 >> $ip >> ~(@rbp))  { test_statement(0x814); }
+0
+$end$
+317
+ if (@rdx + @rbp >> 0n2 != @rdx + @rbp >> 0n2)  { test_statement(0x86F); } else { test_statement(0x365); }
+365
+$end$
+449
+ if (@r10 << 0x13 << 0n11 >> 0x10 << -$ip < @r10 << 0x13 << 0n11 >> 0x10 << -$ip)  { test_statement(0x2148); }
+0
+$end$
+494
+ if (@r12 << $proc <= @r12 << $proc)  { test_statement(0x169); } else { test_statement(0x40B); }
+169
+$end$
+550
+ if ($buffer + $buffer >> $buffer >> 0y10010 >> @r12 >= +$buffer + $teb << $buffer >> @rbx << $ip >> $ip)  { test_statement(0x220A); }
+220A
+$end$
+636
+ if (15 + @r12 >= 15 + @r12)  { test_statement(0x24D9); } else { test_statement(0x112B); }
+24D9
+$end$
+723
+ if (0x9 << @r10 << 4 >> @rsp >> $thread <= 0x9 << @r10 << 4 >> @rsp >> $thread)  { test_statement(0x11EB); }
+11EB
+$end$
+762
+ if (@r8 + @r10 << 0y10000 << (@r12) >> @r11 >> +$teb >> @rdi == @r8 + @r10 << 0y10000 << (@r12) >> @r11 >> +$teb >> @rdi)  { test_statement(0x605); } else { test_statement(0x1919); }
+605
+$end$
+900
+ if (0n6 + @r11 == 0n6 + @r11)  { test_statement(0xE4B); }
+E4B
+$end$
+957
+ if (@rdx >> 0xB >> 0x10 <= @rdx >> 0xB >> 0x10)  { test_statement(0x236); } else { test_statement(0x5F); }
+236
+$end$
+996
+ if (@rsi << @rsp << ~$teb >> ~@r13 >> @rdx >> @rdx > @rsi << @rsp << ~$teb >> ~@r13 >> @rdx >> @rdx)  { test_statement(0x1331); } else { test_statement(0x2502); }
+2502
+$end$
+1073
+ if (@rax + @r8 << @rbp >> @r12 >> @r10 >> @r11 > @rax + @r8 << @rbp >> @r12 >> @r10 >> @r11)  { test_statement(0x5A9); } else { test_statement(0x17F6); }
+17F6
+$end$
+1164
+ if (0y1111 + 13 << @rdi < 0y1111 + 13 << @rdi)  { test_statement(0x189F); } else { test_statement(0x2602); }
+2602
+$end$
+1378
+ if (@rbx + $buffer << @rdi >> 0y1 << @r11 >> @rdx <= @rbx + $buffer << @rdi >> 0y1 << @r11 >> @rdx)  { test_statement(0x12E7); } else { test_statement(0xB78); }
+12E7
+$end$
+1405
+ if (@rdi + 0y1000 << @r11 >= @r11 + @r10 << @r10 << @rbp)  { test_statement(0x7C4); }
+0
+$end$
+1477
+ if (@r12 + @rsi >> @r12 << @r10 <= @r12 + @rsi >> @r12 << @r10)  { test_statement(0x1690); }
+1690
+$end$
+1504
+ if ($thread << $buffer << 3 != $thread << $buffer << 3)  { test_statement(0x268D); } else { test_statement(0x56F); }
+56F
+$end$
+1577
+ if (@rdx + 0xC != @rdx + 0xC)  { test_statement(0x241C); }
+0
+$end$
+1744
+ if (@r13 + @r12 << @rdx >= @r13 + @r12 << @rdx)  { test_statement(0x349); }
+349
+$end$
+1784
+ if (1 >> 0y11 != 1 >> 0y11)  { test_statement(0x1895); }
+0
+$end$
+1788
+ if (0n13 + @r9 << $ip >> @rax << +$buffer == +@rdx << @r9)  { test_statement(0x1F0F); }
+0
+$end$
+1809
+ if (@rax + @rdi >> 0y11 << $teb >> 0n16 >> @r13 < $proc + @r10 << ~$ip << @r12 >> @r13 << @r12)  { test_statement(0x175B); } else { test_statement(0x242F); }
+242F
+$end$
+1911
+ if (@r13 + @r12 << $proc << $thread >> @r11 >> @r10 >> @rax == @r13 + @r12 << $proc << $thread >> @r11 >> @r10 >> @rax)  { test_statement(0xD91); } else { test_statement(0x2072); }
+D91
+$end$
+2156
+ if (@rdx << @rdx >> $teb <= @rdx << @rdx >> $teb)  { test_statement(0x761); } else { test_statement(0x25AD); }
+761
+$end$
+2217
+ if (@r9 >> +$proc >= @r9 >> +$proc)  { test_statement(0x2438); } else { test_statement(0x118B); }
+2438
+$end$
+2581
+ if (@r11 << $buffer << @r10 == @r11 << $buffer << @r10)  { test_statement(0x7BB); }
+7BB
+$end$
+2582
+ if ($thread > $thread)  { test_statement(0x2012); } else { test_statement(0x1053); }
+1053
+$end$
+2662
+ if (0y10010 + 0y1 << +$proc >> @r9 >> 0x6 < 0y10010 + 0y1 << +$proc >> @r9 >> 0x6)  { test_statement(0x26AE); }
+0
+$end$
+2721
+ if (-@r9 << 5 >> @rbx > -@r9 << 5 >> @rbx)  { test_statement(0x78C); }
+0
+$end$
+2794
+ if (@r10 << @rax << $teb == @r10 << @rax << $teb)  { test_statement(0x1491); }
+1491
+$end$
+2828
+ if (@r10 + @rbp << -@r12 << @rax >> (@r8) >> $ip >> $teb <= @r10 + @rbp << -@r12 << @rax >> (@r8) >> $ip >> $teb)  { test_statement(0xC8E); }
+C8E
+$end$
+3005
+ if (@rbp + $teb >= @rbp + $teb)  { test_statement(0x14BB); }
+14BB
+$end$
+3085
+ if (@r8 + 0n1 << 0n1 << @rbx > @r8 + 0n1 << 0n1 << @rbx)  { test_statement(0x3E); }
+0
+$end$
+3310
+ if ($proc + @rax >> $proc >> ($ip) >= $proc + @rax >> $proc >> ($ip))  { test_statement(0x35); }
+35
+$end$
+3396
+ if (@r12 << -$buffer << (@rax) >> @rdi << @r13 >> @rdx >> @r12 >= @r12 << -$buffer << (@rax) >> @rdi << @r13 >> @rdx >> @r12)  { test_statement(0x83D); } else { test_statement(0xCAE); }
+83D
+$end$
+3610
+ if (@r9 >> ~@r8 >> @r13 >> 0xE > $buffer + @r11 << -@r11)  { test_statement(0x624); }
+0
+$end$
+3620
+ if ($thread + 0y10 << @r9 >> @r8 >> +0x5 > $thread + 0y10 << @r9 >> @r8 >> +0x5)  { test_statement(0x24DE); }
+0
+$end$
+3670
+ if (@rbx + @rbp > @rbx + @rbp)  { test_statement(0x1623); } else { test_statement(0x288); }
+288
+$end$
+3692
+ if (@r9 >> $thread >= $ip + @r10)  { test_statement(0x1E47); }
+0
+$end$
+3725
+ if (@r10 >> 14 >> @rdx == @r10 >> 14 >> @rdx)  { test_statement(0x19DA); }
+19DA
+$end$
+3755
+ if (@r8 >> @rsp >= @r8 >> @rsp)  { test_statement(0x1F99); } else { test_statement(0xFBA); }
+1F99
+$end$
+3876
+ if (~+@rsp + 0x1 != ~+@rsp + 0x1)  { test_statement(0x12F9); }
+0
+$end$
+3947
+ if (0xB << @rbx << $buffer >> @rax >> @rsi == 0xB << @rbx << $buffer >> @rax >> @rsi)  { test_statement(0x146); } else { test_statement(0x10FD); }
+146
+$end$
+4068
+ if (17 + @rsi >> $thread >> $proc >= 17 + @rsi >> $thread >> $proc)  { test_statement(0x20F9); } else { test_statement(0x249A); }
+20F9
+$end$
+4322
+ if ($buffer + +@r13 >> @rsi << +(@r8) >> $ip >> -@rsp > $buffer + +@r13 >> @rsi << +(@r8) >> $ip >> -@rsp)  { test_statement(0x14B7); }
+0
+$end$
+4577
+ if (@r9 + @r13 << $buffer >> @r9 << 0y1010 < @r9 + @r13 << $buffer >> @r9 << 0y1010)  { test_statement(0x116); }
+0
+$end$
+4651
+ if (@r13 == 23 << $proc << -0y111)  { test_statement(0x1B79); } else { test_statement(0x102B); }
+102B
+$end$
+4653
+ if (@r13 + @r13 >> @rdi << @r11 >= @r13 + @r13 >> @rdi << @r11)  { test_statement(0x24E9); }
+24E9
+$end$
+4746
+ if (@rdx == @rdx)  { test_statement(0x26C); }
+26C
+$end$
+4811
+ if (0y10000 + @r8 << @rsi >> 0x6 << +$thread >> 0y111 >> @r10 > 0n11 << $thread << 0y1100 >> (@r12))  { test_statement(0x2699); }
+0
+$end$
+4956
+ if (13 + @r12 << @rax << 0n8 != 13 + @r12 << @rax << 0n8)  { test_statement(0x1159); }
+0
+$end$
+4959
+ if (@rbx + 20 >> $ip == @rbx + 20 >> $ip)  { test_statement(0x183D); }
+183D
+$end$
+5198
+ if (@rbp + $thread << 0n4 >> @rsp << @r10 >> @rdi != @rbp + $thread << 0n4 >> @rsp << @r10 >> @rdi)  { test_statement(0x2402); }
+0
+$end$
+5507
+ if (@r13 << @r8 > @r13 << @r8)  { test_statement(0x134A); }
+0
+$end$
+5588
+ if (+@r9 + $proc >= +@r9 + $proc)  { test_statement(0x149A); } elsif ($buffer << @r13 >> 0y1011 >> 20 == $buffer << @r13 >> 0y1011 >> 20) { test_statement(0x1D77); }
+149A
+$end$
+5635
+ if (@rsp < @r11 + @rdx)  { test_statement(0x23D0); }
+23D0
+$end$
+5664
+ if ((+(@rbx)) << $ip < (+(@rbx)) << $ip)  { test_statement(0x98E); } else { test_statement(0xAB5); }
+AB5
+$end$
+5726
+ if (@rbx + $buffer << @rdx << $proc == @rbx + $buffer << @rdx << $proc)  { test_statement(0xA33); }
+A33
+$end$
+5772
+ if (@rdi << @r10 << @r11 >> @rsp >= @rdi << @r10 << @r11 >> @rsp)  { test_statement(0x18CC); } else { test_statement(0x18D6); }
+18CC
+$end$
+5858
+ if (~-12 + -0n5 >> @r13 << $teb < ~-12 + -0n5 >> @r13 << $teb)  { test_statement(0x658); } else { test_statement(0x168F); }
+168F
+$end$
+6125
+ if ($proc + @rbx < $proc + @rbx)  { test_statement(0x46A); } else { test_statement(0x1C67); }
+1C67
+$end$
+6150
+ if ((@r11) << $ip << -@r13 > $thread + 0y11 << @rdi >> 0y1100 >> @rsi >> (@rdi))  { test_statement(0x12F7); } else { test_statement(0x16A7); }
+12F7
+$end$
+6156
+ if (@r11 + 0n1 << 3 << 0n12 > @r11 + 0n1 << 3 << 0n12)  { test_statement(0x12E1); }
+0
+$end$
+6232
+ if (@rbx >= @rbx)  { test_statement(0x148F); }
+148F
+$end$
+6514
+ if (+@rax + @r8 << @r8 >> @r9 <= @rdi + (@r9))  { test_statement(0x1BA8); } else { test_statement(0x1314); }
+1BA8
+$end$
+6582
+ if (@rsp >> @r13 << @r13 >= @rsp >> @r13 << @r13)  { test_statement(0x2284); }
+2284
+$end$
+6696
+ if (@rdx < @rdx)  { test_statement(0x23DF); }
+0
+$end$
+7100
+ if (+@rdi << @r11 != +@rdi << @r11)  { test_statement(0x254A); }
+0
+$end$
+7165
+ if (-0y1111 + @r13 < @rbp)  { test_statement(0x26C0); } else { test_statement(0x10FC); }
+26C0
+$end$
+7245
+ if (~@rbx + @r8 >= @r11 << @rdx << ~@rsi >> @r10 << @r13)  { test_statement(0xE2D); }
+E2D
+$end$
+7250
+ if ($proc + @r13 << @rbx << 0y1011 >> @r9 <= $proc + @r13 << @rbx << 0y1011 >> @r9)  { test_statement(0x1330); }
+1330
+$end$
+7376
+ if ($teb + @r13 << (@rax) << $thread >> $proc << (@r9) >> @r10 >> @rdi == $teb + @r13 << (@rax) << $thread >> $proc << (@r9) >> @r10 >> @rdi)  { test_statement(0x182D); } else { test_statement(0x386); }
+182D
+$end$
+7711
+ if (@rbp << @r11 << 17 < @rbp << @r11 << 17)  { test_statement(0x1D38); } else { test_statement(0x8B0); }
+8B0
+$end$
+7875
+ if (@rsi + @rbp << @rbx >> @rdi == @rdi + (0n0))  { test_statement(0x847); }
+0
+$end$
+7879
+ if (0y10000 == @rdi + @rdx << @r13 >> @rbp >> 0x11)  { test_statement(0xA48); }
+0
+$end$
+7910
+ if (@r11 << $ip > $teb + ~@r13 << 0n4 << -@r8 >> @r12 << @rsp >> @rbp)  { test_statement(0xF98); }
+F98
+$end$
+7928
+ if (@r10 + @r10 >> $ip << @rax < +@rbx + $thread >> @rdi << +@rbx)  { test_statement(0x246A); }
+0
+$end$
+7938
+ if (@r8 + @r10 == @r10 << $teb << @r11 >> 2 << 2)  { test_statement(0x1F01); }
+0
+$end$
+7991
+ if (@r11 + $thread >> +~@r9 << @rdx >> @rdx >> 0y1110 <= @r11 + $thread >> +~@r9 << @rdx >> @rdx >> 0y1110)  { test_statement(0x24E6); } else { test_statement(0xA3C); }
+24E6
+$end$
+8314
+ if (@rax + @r9 <= @rax + @r9)  { test_statement(0x1221); } else { test_statement(0x1D01); }
+1221
+$end$
+8477
+ if (0x4 << @r13 << ~@rsp <= 0x4 << @r13 << ~@rsp)  { test_statement(0x116F); } else { test_statement(0x7CD); }
+116F
+$end$
+8595
+ if ($ip >> $buffer >> @rbp >> @r12 != $ip >> $buffer >> @rbp >> @r12)  { test_statement(0x852); } else { test_statement(0x1A6); }
+1A6
+$end$
+8768
+ if (+@rbp << -$proc >> @rsi != @rbp + $thread)  { test_statement(0x4F9); }
+4F9
+$end$
+8856
+ if (@rdi + @r12 << 15 <= @rbx + $ip)  { test_statement(0xB98); }
+0
+$end$
+8867
+ if (@rbp >> +0x5 >> @r9 == @rbp >> +0x5 >> @r9)  { test_statement(0x17D8); }
+17D8
+$end$
+9029
+ if (0y1100 << @r8 << $buffer >> 15 >= 0y1100 << @r8 << $buffer >> 15)  { test_statement(0x1358); } else { test_statement(0x1F4D); }
+1358
+$end$
+9090
+ if (0n2 + $proc >> @r9 << $proc < 0n2 + $proc >> @r9 << $proc)  { test_statement(0x28D); }
+0
+$end$
+9261
+ if (0y10011 >= $buffer << @rsp >> $ip << -0n5 >> @r10)  { test_statement(0x2704); }
+2704
+$end$
+9281
+ if (0n18 >> (@rsi) < $thread >> @r12 << $ip >> 0x5 >> @r8)  { test_statement(0x1556); } else { test_statement(0x150C); }
+150C
+$end$
+9318
+ if (@rsp + $buffer == @rsp + $buffer)  { test_statement(0x15CD); } else { test_statement(0x24); }
+15CD
+$end$
+9498
+ if (~@r10 != ~@r10)  { test_statement(0x3B9); }
+0
+$end$
+9512
+ if (@r10 << @rbx << (@r12) >> ~15 >> @rbx >= 0xB)  { test_statement(0x1D23); }
+0
+$end$
+9673
+ if ($teb << @rax >= $teb << @rax)  { test_statement(0x5D9); }
+5D9
+$end$
+9870
+ if (@r13 < @r13)  { test_statement(0xA43); } else { test_statement(0x1547); }
+1547
+$end$
+9895
+ if (@rax < @rax)  { test_statement(0x2445); } else { test_statement(0x1D01); }
+1D01
+$end$
+9986
+ if (@r12 << @rdx << ~0n0 >> @r13 << 3 >> 0y111 != @r12 << @rdx << ~0n0 >> @r13 << 3 >> 0y111)  { test_statement(0xCD7); }
+0
+$end$
+10102
+ if (@rbx << +$buffer >> @r13 << 0x3 >> (@r12) >= @rbx << +$buffer >> @r13 << 0x3 >> (@r12))  { test_statement(0x169E); }
+169E
+$end$
+10292
+ if (@r9 << 0xC >> $ip <= @r9 << 0xC >> $ip)  { test_statement(0x2302); }
+2302
+$end$
+10358
+ if (@rbp + @rsp >> 0xF != @rbp + @rsp >> 0xF)  { test_statement(0xF9C); }
+0
+$end$

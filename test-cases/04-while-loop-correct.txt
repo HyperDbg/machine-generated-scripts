@@ -1,0 +1,1164 @@
+5
+ while  (@rsp + (@rdx) <= @rsp + (@rdx))  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+25
+ while  (7 << $thread == 7 << $thread)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+29
+ while  (@rsp != @rsp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+39
+ while  (@rax + 7 < @rax + 7)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+74
+ while  (@r12 + $thread == 0x6)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+129
+ while  (@r8 >> +-@rbx >> 0x1 >= @r8 >> +-@rbx >> 0x1)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+135
+ while  ($teb >> @r10 <= $teb >> @r10)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+181
+ while  (+@rax + 0n18 < +@rax + 0n18)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+234
+ while  (0xC + @r9 << (@r9) <= 0xC + @r9 << (@r9))  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+337
+ while  (@rdi + $proc >> @rbx < @rdi + $proc >> @rbx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+394
+ while  (@rbp + @rsi << 0y101 << @rdi != @rbp + @rsi << 0y101 << @rdi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+479
+ while  ($buffer + @rbp <= $buffer + @rbp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+563
+ while  (@r11 + ($ip) >> @rbx > @r11 + ($ip) >> @rbx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+719
+ while  (@r10 >> 0xC << $proc > @r10 >> 0xC << $proc)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+868
+ while  (0y10000 << $proc << 0y10000 < @r9 + @rdi << @r12)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+965
+ while  (@rbx == $teb << $proc << @r12 >> $proc << @r9)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+983
+ while  (@rbx >> ~12 >> 0n3 > @rbx >> ~12 >> 0n3)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+1003
+ while  (@r11 == @r11)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+1066
+ while  (0x2 + $ip << -@r12 << @r11 >> @rdi >> @r11 >> @r11 > 0x2 + $ip << -@r12 << @r11 >> @rdi >> @r11 >> @r11)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+1132
+ while  (+@r11 >> @rbx >> @rax >> @r13 <= +@r11 >> @rbx >> @rax >> @r13)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+1140
+ while  (0n19 + @r8 << $thread << $buffer >> @r9 << $ip <= ~$thread << @rsi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+1147
+ while  ($thread << @r11 >> @rsp << @rax < $thread << @r11 >> @rsp << @rax)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+1178
+ while  (@r10 >> -@r10 << 0y10000 < @r10 >> -@r10 << 0y10000)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+1193
+ while  (+@rsi << @rbp << $buffer >> @rsp << @rdi > +@rsi << @rbp << $buffer >> @rsp << @rdi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+1202
+ while  (0y1000 + @r8 << @r12 <= 0y1000 + @r8 << @r12)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+1223
+ while  (@rdi + -@r8 << @r8 >> @rbx << +(@rdi) >> @rsp >> $proc < @rdi + -@r8 << @r8 >> @rbx << +(@rdi) >> @rsp >> $proc)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+1248
+ while  (@rsp << @rdx >> @rax << @r12 >> +@rbp <= @rsp << @rdx >> @rax << @r12 >> +@rbp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+1310
+ while  (+@rax + @rbx >> $thread >> 0x6 >> ($buffer) != +@rax + @rbx >> $thread >> 0x6 >> ($buffer))  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+1352
+ while  ($buffer + @r9 << $ip >> $proc < $buffer + @r9 << $ip >> $proc)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+1466
+ while  (@rdi + $proc >> $proc << @r13 <= @r11 >> $teb)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+1501
+ while  (@r13 << @r11 >> @r12 == @r13 << @r11 >> @r12)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+1607
+ while  (0y11 + @rdx >> ~@rdi << -~@rax >> 0x9 < 0y11 + @rdx >> ~@rdi << -~@rax >> 0x9)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+1626
+ while  (@rdi + -@rdx << $ip << @r12 >> @r8 != @rdi + -@rdx << $ip << @r12 >> @r8)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+1632
+ while  ($teb << @rbp >> $proc << 4 >> @rsp != $teb << @rbp >> $proc << 4 >> @rsp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+1639
+ while  (@rsi << $thread << 0x12 <= @rsi << $thread << 0x12)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+1902
+ while  ($teb + @rbp << @rbx >> @r8 << 0x8 >> @r8 >> @r8 == $teb + @rbp << @rbx >> @r8 << 0x8 >> @r8 >> @r8)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+1934
+ while  (@r10 >= @r10)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+2060
+ while  ($proc << @r9 << @rsp >= $proc << @r9 << @rsp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+2106
+ while  ($proc + @rdi >= $proc + @rdi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+2120
+ while  (@r9 >> @rsi << @r9 >> @rbx >> $thread > @r9 >> @rsi << @r9 >> @rbx >> $thread)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+2199
+ while  ($buffer + @rsp >> $teb << @rsp == $buffer + @rsp >> $teb << @rsp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+2207
+ while  (@r13 >> @rdx << @rsp < @r13 >> @rdx << @rsp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+2261
+ while  (0n15 << @r11 >> @rdx < 0n15 << @r11 >> @rdx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+2296
+ while  (@rax << @rax << @rsi >> @rbp << 0y101 != @rax << @rax << @rsi >> @rbp << 0y101)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+2321
+ while  (@rbx + 14 << $thread >> ~-@rax << $ip != @rbx + 14 << $thread >> ~-@rax << $ip)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+2410
+ while  ($teb + -20 << @rsi >= $teb + -20 << @rsi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+2412
+ while  (0y1001 << @r11 << @r12 >> @rdi >> @r12 >> @rdi == @r9 + ~@rax << 22 >> @r10 >> @rbx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+2540
+ while  ($buffer << @rbx > $buffer << @rbx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+2573
+ while  (@rdi + ~@r9 << @rdx < @rdi + ~@r9 << @rdx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+2655
+ while  ($ip + @rax << $buffer << @rsi < $ip + @rax << $buffer << @rsi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+2674
+ while  (@rsp >= -@rbx + @rsi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+2821
+ while  ((@rbp) << @r11 << @rbx >> ~@r9 << 0y10 >> @rdx == (@rbp) << @r11 << @rbx >> ~@r9 << 0y10 >> @rdx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+2930
+ while  (@r10 >> 10 << @r12 <= @r10 >> 10 << @r12)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+2987
+ while  (0y1000 + @r8 < 0y1000 + @r8)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+3038
+ while  ($proc + @r11 << +@r9 >= $proc + @r11 << +@r9)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+3045
+ while  ((@r10) + @rdx >= 15 >> $proc << @r13)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+3185
+ while  ((@r11) >> 0y10 << 0y11 >> $ip >> @rsi != (@r11) >> 0y10 << 0y11 >> $ip >> @rsi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+3221
+ while  (@r11 << @r11 << @r13 >> $teb >> @rsi < @r11 << @r11 << @r13 >> $teb >> @rsi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+3309
+ while  (+$thread + @r11 << (@r13) > +$thread + @r11 << (@r13))  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+3423
+ while  (@rdx << 0n12 << @rax > @rdx << 0n12 << @rax)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+3486
+ while  (@rbx << $buffer >> -@rax << @rsi < @rbx << $buffer >> -@rax << @rsi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+3494
+ while  (@rax + $buffer >> $buffer >> @r9 <= @rax + $buffer >> $buffer >> @r9)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+3687
+ while  (12 << @rsp << 0y1000 != 12 << @rsp << 0y1000)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+3728
+ while  (@r13 + @rax <= $ip + @r9 >> $ip << @rax >> @r8)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+3770
+ while  (@rdi + ($buffer) < @rdi + ($buffer))  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+3805
+ while  ($teb + +$ip >> ~$buffer >> @r8 >> @rsi > $teb + +$ip >> ~$buffer >> @r8 >> @rsi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+3806
+ while  (@rsi << $ip << ~$proc >> $thread << @r11 <= @rsi << $ip << ~$proc >> $thread << @r11)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+3902
+ while  (+$thread + $thread << ~$ip >> +@r10 << @r13 >> +12 <= 0n4 + ~($teb) << @r10 >> $teb)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+3970
+ while  (0n9 + $buffer << 17 << @rdi >= 0n9 + $buffer << 17 << @rdi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+3971
+ while  (~(@rdx) << @rsp << 21 >> ($buffer) << $buffer == ~(@rdx) << @rsp << 21 >> ($buffer) << $buffer)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+3993
+ while  (@r9 + @rdx != @r9 + @rdx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+4032
+ while  (@rsi + @rsp << @r9 << -~@r10 < @rsi + @rsp << @r9 << -~@r10)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+4041
+ while  (@r11 + $ip < (@r13) + @rbp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+4161
+ while  (+@rax << @rsp << $teb <= +@rax << @rsp << $teb)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+4163
+ while  (~22 <= 0xF + @r8)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+4225
+ while  (7 >> 6 << @r10 < 7 >> 6 << @r10)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+4261
+ while  ($buffer + +@rax << @rax << @r11 >> @rsi >> @rbp < $buffer + +@rax << @rax << @r11 >> @rsi >> @rbp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+4340
+ while  (@rsi + @r11 > @rsi + @r11)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+4346
+ while  ($teb >> @rsi < $teb >> @rsi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+4365
+ while  ($teb == $teb)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+4377
+ while  (@r10 + @rbp >> ~@rdi >> 0x9 == @rbx >> $thread << $ip >> -@rbx >> @rdx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+4388
+ while  ($proc + @r11 >> @rbx >> @rbx >> @r11 == $proc + @r11 >> @rbx >> @rbx >> @r11)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+4421
+ while  (@rsi + @r13 << @rdi < (0y100) << @rbp >> @r10 >> 5 >> @rax)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+4432
+ while  ($thread + @r10 << @r8 << 0x6 >> 0x13 << @rbx != $thread + @r10 << @r8 << 0x6 >> 0x13 << @rbx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+4479
+ while  (0y101 + @rbx < @r8 + 0x1 << @r8 << @r8)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+4492
+ while  ($teb + @rbp << @rsp == $teb + @rbp << @rsp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+4531
+ while  ($proc << $thread >> @r10 << @rax <= $proc << $thread >> @r10 << @rax)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+4532
+ while  (~@rbp + @rax != ~@rbp + @rax)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+4575
+ while  (@r10 + $proc << $ip <= @r10 + $proc << $ip)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+4636
+ while  (0xE + @r13 <= 0xE + @r13)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+4655
+ while  ($ip + @rbp >> 0n12 << @rax <= $ip + @rbp >> 0n12 << @rax)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+4787
+ while  (@rax + $buffer >> @r10 << @r12 >> $proc >> ~13 < +@rdx << 0y1011 << @r13)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+4889
+ while  (@rdi + @rdx >> @rbx << ~@r12 != @rdi + @rdx >> @rbx << ~@r12)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+4915
+ while  ((@rsp) == @rdx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+4939
+ while  (0y1011 + @rdi >> +@rsi << @rdx >> $buffer < @r11 + 0n7 << @rax)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+4981
+ while  (@r8 + 0y1000 >= @r8 + 0y1000)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+4986
+ while  (@rbp + @r13 >> @rbp << @r8 >> @r9 < @rbp + @r13 >> @rbp << @r8 >> @r9)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+5124
+ while  (@r9 + 0 << $ip >> +@rax >> @rdi == @r9 + 0 << $ip >> +@rax >> @rdi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+5156
+ while  (-+0n12 << $thread << @r8 > -+0n12 << $thread << @r8)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+5183
+ while  (@r11 + @rsi << @r8 <= @r11 + @rsi << @r8)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+5187
+ while  (@rax << @r11 == @rax << @r11)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+5382
+ while  (+-@rsi < @r13 + @r12)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+5434
+ while  (@rsi == $proc)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+5459
+ while  (-($buffer) > -($buffer))  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+5483
+ while  (-@rbx + @r8 >> @rsi << @rsp >> @r10 < -@rbx + @r8 >> @rsi << @rsp >> @r10)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+5523
+ while  (~@r10 >> $buffer << @r11 < $teb)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+5589
+ while  (@r10 + @r9 != @r10 + @r9)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+5644
+ while  (@rsp > @rsp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+5653
+ while  (@rbx != @rbx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+5664
+ while  (@r13 + @rsi << $teb >> ~$proc << $buffer >> @r9 >= @r13 + @rsi << $teb >> ~$proc << $buffer >> @r9)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+5681
+ while  (($proc) + $proc << @rsi >> @r9 <= ($proc) + $proc << @rsi >> @r9)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+5755
+ while  (@r12 + @r12 <= @r12 + @r12)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+5804
+ while  ($proc + 0y1010 >> 0n1 << @rbx >> $teb >> @rbx > $proc + 0y1010 >> 0n1 << @rbx >> $teb >> @rbx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+5912
+ while  (0xE + @rsi >> @rdx >> 0x13 == 0xE + @rsi >> @rdx >> 0x13)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+5961
+ while  ($thread + @rbx << $thread != @rbx >> @r11 >> ~0x4)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+6128
+ while  (@rdi + 0n8 << +@r13 == @rdi + 0n8 << +@r13)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+6151
+ while  (@rsi << 0y111 << $buffer == @rsi << 0y111 << $buffer)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+6317
+ while  ($thread + ~@r10 << @rbp == $thread + ~@r10 << @rbp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+6339
+ while  (@rbp + @rax << @r9 << -0y10 >> @rsi << @r8 >> 0y0 == @rbp + @rax << @r9 << -0y10 >> @rsi << @r8 >> 0y0)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+6363
+ while  (@rdx + $thread >> 20 << 0y1100 != @rdx + $thread >> 20 << 0y1100)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+6417
+ while  (@r9 + ($buffer) >> -@rbx << @rax <= @r9 + ($buffer) >> -@rbx << @rax)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+6489
+ while  ($thread << $proc != $thread << $proc)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+6551
+ while  (@r13 + ~(@r8) == @r13 + ~(@r8))  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+6701
+ while  (@rsp + @r13 >> ~+0n0 >> @rsi != @rsp + @r13 >> ~+0n0 >> @rsi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+6721
+ while  ($buffer + @rdx << ~@rbp == $buffer + @rdx << ~@rbp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+6759
+ while  ($teb + @r11 << 0n18 <= @r11 + @rdi >> @rdi >> (@r12) >> @rbx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+6814
+ while  ($teb + ($buffer) << @rbx << +@r11 <= $teb + ($buffer) << @rbx << +@r11)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+6821
+ while  (@rsi << $teb << @rax >= @rsi << $teb << @rax)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+6905
+ while  (0y110 >> $ip << @r10 >> @rax >> @r11 == 0y110 >> $ip << @r10 >> @rax >> @r11)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+6923
+ while  (@r9 + ($teb) << -@rsp == @r9 + ($teb) << -@rsp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+6980
+ while  (0x4 >> @r11 << +@r12 >> 0y10011 >> @rdx <= 0x4 >> @r11 << +@r12 >> 0y10011 >> @rdx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+7088
+ while  (6 >> @rbx << @rsi >= 6 >> @rbx << @rsi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+7129
+ while  ($teb + ~@rbx >> +@rsi << (@rax) >> @r10 != $teb + ~@rbx >> +@rsi << (@rax) >> @r10)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+7161
+ while  (@r8 + $thread << @r10 >> $proc >> ($teb) >= @r8 + $thread << @r10 >> $proc >> ($teb))  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+7163
+ while  (@rbx >> $thread << $teb <= @rbx >> $thread << $teb)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+7217
+ while  (@rbx << 0n12 << 0n3 >> @rbx >> @rbp < @rbx << 0n12 << 0n3 >> @rbx >> @rbp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+7223
+ while  (@r12 + $proc >> @r10 >> 0n4 >= @r12 + $proc >> @r10 >> 0n4)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+7234
+ while  ($thread + $teb << $ip << ~$proc >= $thread + $teb << $ip << ~$proc)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+7306
+ while  (0y1010 + $thread >= 0y1010 + $thread)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+7353
+ while  ($thread + +@rbp != $thread + +@rbp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+7467
+ while  ((@rsp) << (~~(@rsp)) << 11 == (@rsp) << (~~(@rsp)) << 11)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+7519
+ while  (@rsp < @rsp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+7533
+ while  (0y10001 << @rax << $thread >> @r9 << $thread >> @rsi >> @rax == @rdi + (0y1111) >> @r13 << @rsi >> -@rdx >> (@r10))  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+7633
+ while  (+@r13 + @rsi >> @rax << @rsp >= +@r13 + @rsi >> @rax << @rsp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+7671
+ while  (@rsp + $proc <= @rsp + $proc)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+7756
+ while  (1 + @rbx << @r10 << @r13 >> ~-0 >> 0n17 < 1 + @rbx << @r10 << @r13 >> ~-0 >> 0n17)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+7771
+ while  (@r8 + @r13 == @r8 + @r13)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+7826
+ while  (0x11 + ~$proc << $buffer >> @rdx << @rbx >> ~$ip > 0x11 + ~$proc << $buffer >> @rdx << @rbx >> ~$ip)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+7832
+ while  (0n13 << @r13 >> $ip >> 0y1000 == 0n13 << @r13 >> $ip >> 0y1000)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+7953
+ while  (+@r8 + @rax << 0y101 << 0n14 >> (-@r8) >= +@r8 + @rax << 0y101 << 0n14 >> (-@r8))  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+8020
+ while  (@rbp << 0n13 >> @rbx > @rbp << 0n13 >> @rbx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+8099
+ while  (0n16 << @r10 << 0y1101 == $buffer + @rdx << @rsp >> @r8)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+8159
+ while  (21 + @r12 >> 0y11 << 15 != 21 + @r12 >> 0y11 << 15)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+8209
+ while  (@r10 + 0n3 << $thread >> @r11 << @r8 <= @r10 + 0n3 << $thread >> @r11 << @r8)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+8242
+ while  (($thread) + 0y10011 >> @rdx >> 0y1011 != ($thread) + 0y10011 >> @rdx >> 0y1011)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+8322
+ while  (@rbp >= @rbp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+8325
+ while  (@r13 << 0y1011 >> $proc >> @rdi < @r13 << 0y1011 >> $proc >> @rdi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+8399
+ while  ((@r10) + @r12 << $buffer > (@r10) + @r12 << $buffer)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+8441
+ while  (-@rsi + 0y1011 >> ~+$proc != -@rsi + 0y1011 >> ~+$proc)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+8464
+ while  ($buffer + @rbp <= $buffer + @rbp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+8470
+ while  (+$teb << @rsi <= 0n2 << @r12 << $buffer)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+8511
+ while  (0y1011 + @r12 != 0y1011 + @r12)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+8537
+ while  ($proc + @r11 << @rbp >> 0x5 >= $proc + @r11 << @rbp >> 0x5)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+8656
+ while  (-0n3 + @rdx != -0n3 + @rdx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+8728
+ while  (@r11 == @r11)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+8808
+ while  ($teb + $thread < $teb + $thread)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+8846
+ while  (~@r10 << $ip << 14 >> ~@r8 >> @rsp < @rax + @rdi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+8904
+ while  ($thread << @r13 << @r11 == $thread << @r13 << @r11)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+8930
+ while  (@rbx + @rbp >= @rbx + @rbp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+8964
+ while  (@rsp + ~@r12 << ~(~@r12) == @rsp + ~@r12 << ~(~@r12))  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+8987
+ while  ($ip << 7 << $proc >= $ip << 7 << $proc)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+9019
+ while  ($proc + 20 << 0x12 != $proc + 20 << 0x12)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+9087
+ while  (@rbp << @r8 >= @rbp << @r8)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+9106
+ while  (0n4 + @r11 << @rax >> @r9 < 0n4 + @r11 << @rax >> @r9)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+9214
+ while  (@r8 << $proc << 7 == @r8 << $proc << 7)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+9272
+ while  (@rsi << @rsp << @r11 >= +@r11 << @rdi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+9327
+ while  (@rsp << @r8 << @rsp >= @rsp << @r8 << @rsp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+9458
+ while  (@rax >> $teb << @rdi >> ~0x10 >> 21 <= @rax >> $teb << @rdi >> ~0x10 >> 21)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+9502
+ while  (@r10 >> 22 << @rdi > @r10 >> 22 << @rdi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+9610
+ while  (@r11 + @r13 > @r11 + @r13)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+9616
+ while  (@rdx + @rax >> @r10 << 23 >> @r8 >= $buffer >> @rbx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+9632
+ while  (-@rbp + $proc >= +20 << @rsi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+9646
+ while  (0x2 + 0n19 >= 0x2 + 0n19)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+9692
+ while  ($buffer << @r9 <= $buffer << @r9)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+9719
+ while  (-@rdi + @r13 >> $teb << @r13 > -@rdi + @r13 >> $teb << @r13)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+9981
+ while  ($thread + 0y1000 >> @r10 >> $buffer >= $thread + 0y1000 >> @r10 >> $buffer)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+10124
+ while  (@r8 + @rsp << @rdi << 0y1000 >> @rax >> @r12 >> +-$teb != @r8 + @rsp << @rdi << 0y1000 >> @rax >> @r12 >> +-$teb)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+10135
+ while  ($ip + $thread >> ~@r11 == @r11 >> @r8)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+10206
+ while  ((0n3) + @rbp << @rax >= (0n3) + @rbp << @rax)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+10292
+ while  (-$teb << @r12 >> 0xF << @r13 < -$teb << @r12 >> 0xF << @r13)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+10422
+ while  (-@r13 >> 16 << @rdi > -@r13 >> 16 << @rdi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+10433
+ while  (@r8 >> 0x0 << @r10 < @r8 >> 0x0 << @r10)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+10639
+ while  (@rdx + 0y10010 << @rsi << @rsi == @rdx + 0y10010 << @rsi << @rsi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+10650
+ while  ($thread >> @rbx << ((@r10)) >= $thread >> @rbx << ((@r10)))  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+10718
+ while  (@rdi >> @r13 < @rdi >> @r13)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+10800
+ while  (@r12 >> (0x13) != @r12 >> (0x13))  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+10826
+ while  (@r11 + $proc << @r13 <= @r11 + $proc << @r13)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+10845
+ while  (0x1 + 0y1001 << @r12 << $thread >> $ip << $buffer > 0x1 + 0y1001 << @r12 << $thread >> $ip << $buffer)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+11100
+ while  (@rdx + @r13 << 0y111 << @rsi >> @rsi << (@rax) > @rdx + @r13 << 0y111 << @rsi >> @rsi << (@rax))  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+11241
+ while  (@rdi == @rdi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+11288
+ while  (@r8 << ($thread) << 0xF >> (@rax) << -@rsp >> @rbp != @r8 << ($thread) << 0xF >> (@rax) << -@rsp >> @rbp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+11291
+ while  ((@rbx) <= (@rbx))  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+11341
+ while  ($thread + @rbp >> (0y110) >> -$thread > $thread + @rbp >> (0y110) >> -$thread)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+11348
+ while  (-+@rbx + $teb << @r11 >> $ip << 15 >> @rbx >> (0y10001) < -+@rbx + $teb << @r11 >> $ip << 15 >> @rbx >> (0y10001))  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+11395
+ while  (+@r13 + 15 << @r11 << $ip > +@r13 + 15 << @r11 << $ip)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+11399
+ while  (@rsi + @rdx != @rbp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+11435
+ while  (~$proc + @r10 >> @r9 << @r9 >> @rsi == @rsp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+11447
+ while  (@rbx << -@r9 != @rbx << -@r9)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+11614
+ while  (@r10 + $ip << $thread << $ip >> @r11 >> $thread >> @r8 > 0n1 << @rsp << @r13 >> $ip)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+11742
+ while  (@r10 << 0y10010 != @r10 << 0y10010)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+11956
+ while  (0n3 >= 0n3)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+11989
+ while  (@r13 << @rbp << @r10 >> ~0x8 << $proc > @r13 << @rbp << @r10 >> ~0x8 << $proc)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+12062
+ while  (@r9 + @r10 << +0n5 >> @rbp >> @rbx >> @rbp == @r9 + @r10 << +0n5 >> @rbp >> @rbx >> @rbp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+12149
+ while  (~0x5 + @rbp << @r10 << @rbx != ~0x5 + @rbp << @r10 << @rbx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+12204
+ while  (@r11 + $proc >> 0y10 << 0x11 >> @r9 <= @r11 + $proc >> 0y10 << 0x11 >> @r9)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+12346
+ while  (~@r13 << 0xD << -@rdx != ~@r13 << 0xD << -@rdx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+12506
+ while  (@rsp << 0n4 >> 0xD << $thread > @rsp << 0n4 >> 0xD << $thread)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+12518
+ while  (+$ip + @r12 >> -((@r12)) == +$ip + @r12 >> -((@r12)))  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+12543
+ while  ($proc + $teb << @rax >> @rsi << 0y10001 == $proc + $teb << @rax >> @rsi << 0y10001)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+12589
+ while  (0x6 << @rsp << $proc >> 14 >= 0x6 << @rsp << $proc >> 14)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+12594
+ while  (~@r12 << @r9 != 0x9 + @rsi >> @rbp >> $proc >> @r9)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+12615
+ while  (0y1011 + $buffer << $teb > 0y1011 + $buffer << $teb)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+12635
+ while  (@rdi << @rsp >> @rbp << @rdx >> (@r11) < @rdi << @rsp >> @rbp << @rdx >> (@r11))  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+12776
+ while  (-@rbp << 0n15 != -@rbp << 0n15)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+12790
+ while  (@rdx >> @rbx >> @rsi < @rdx >> @rbx >> @rsi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+12791
+ while  (+@r12 << 0y1 >> @rsi << $teb >> $thread >> @rsi >= +@r12 << 0y1 >> @rsi << $teb >> $thread >> @rsi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+12939
+ while  (@rdi + @rax >> @r8 << @rsi >= @rdi + @rax >> @r8 << @rsi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+13022
+ while  (@r9 + @r8 > @r9 + @r8)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+13062
+ while  (@rdx << @rsi << @rdx >= 0xA + @rax << @rbp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+13120
+ while  (@rdi << $teb << +~@r10 >> @r12 > @rdi << $teb << +~@r10 >> @r12)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+13174
+ while  ($teb + @r8 >> $proc >> @rbx >> @rdi <= $teb + @r8 >> $proc >> @rbx >> @rdi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+13223
+ while  (-@rsp < -@rsp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+13262
+ while  (@r10 < @rbp + @r11)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+13325
+ while  (@rdi << 12 > @rdi << 12)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+13327
+ while  (@rsi + 4 << -$ip << 7 <= @rsi + 4 << -$ip << 7)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+13345
+ while  (@r9 << @rsp << @rdi == @r9 << @rsp << @rdi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+13394
+ while  (@rdi << -@rdi << -$buffer >> @rbp << @r11 >> @r9 < $ip << +0n12 << @rbp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+13395
+ while  ((5) + ~@r8 << @rbx >> @r10 != (5) + ~@r8 << @rbx >> @r10)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+13401
+ while  (@rbx + $ip << @rdi << +$thread == @rbx + $ip << @rdi << +$thread)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+13415
+ while  (@rdi << 0x7 <= @r10 << @r10 >> $proc << ~@rax)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+13503
+ while  ($proc + -@rsp >> @r8 <= $proc + -@rsp >> @r8)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+13537
+ while  (@rbx + 7 >> 2 < @rbx + 7 >> 2)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+13566
+ while  (@rax + 0x0 << @rdx >> $thread << 0n13 >> @rsi >> +@rbx == @r8 >> $ip << $buffer >> @r9)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+13619
+ while  (@rsp < @rsp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+13755
+ while  (@r10 + @rbx << $buffer << @r10 > @r10 + @rbx << $buffer << @r10)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+13760
+ while  (@r8 == 0y1011 >> @r11)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+13854
+ while  (@rbx << @r8 < @r12 << $thread << (-@r10) >> @rbp >> 0xF >> @r10)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+13962
+ while  (0x13 >> @r8 << @r9 >> $proc == 0x13 >> @r8 << @r9 >> $proc)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+13991
+ while  (@rbx + @rbx > @rbx + @rbx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+14016
+ while  (@rax << @rbx << @r13 < @rax << @rbx << @r13)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+14125
+ while  (@r9 + $proc << @rdx << @r9 >= @r10 << @rbp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+14137
+ while  (0x1 + @r12 << @r12 << @r10 == 0x1 + @r12 << @r12 << @r10)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+14146
+ while  (@rdi + @rax >> 23 >> (@r11) >> ($thread) != @rdi + @rax >> 23 >> (@r11) >> ($thread))  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+14218
+ while  (@r8 + @r13 << -0n0 << @rax <= @r8 + @r13 << -0n0 << @rax)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+14220
+ while  (11 + $teb << @r11 <= 11 + $teb << @r11)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+14290
+ while  (@rsp + @r10 << @r8 >> @rdx << $ip > @rsp + @r10 << @r8 >> @rdx << $ip)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+14322
+ while  (0x4 << $buffer << @r10 != 0x4 << $buffer << @r10)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+14327
+ while  (@r12 << @r9 >> @rax >> @r12 >> ~@rbx < @r12 << @r9 >> @rax >> @r12 >> ~@rbx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+14376
+ while  (@rax >> @r8 >= @rax >> @r8)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+14474
+ while  ($teb >> @rdx >> $ip == $teb >> @rdx >> $ip)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+14536
+ while  (@rdi << $buffer << @rdi == @rdi << $buffer << @rdi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+14561
+ while  (@r12 << @rax > @r12 << @rax)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+14579
+ while  (@r9 << ($thread) <= @r9 << ($thread))  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+14641
+ while  (@rax + $ip << 23 >= @rax + $ip << 23)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+14642
+ while  (@rbp + $ip << $buffer > @rbp + $ip << $buffer)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+14714
+ while  (+$ip << @r12 >> 0y1100 << (-$proc) >> @rax >> @r9 != +$ip << @r12 >> 0y1100 << (-$proc) >> @rax >> @r9)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+14749
+ while  (@rsi + @r13 << $buffer >> @r9 << @rsi > @rdi << @rsp << @rax)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+14750
+ while  (@rdi >= @rdi)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+14803
+ while  (@rsp << +$buffer < 0n7 >> $buffer >> $proc)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+14850
+ while  (-0n17 + @r9 << @rdi << $buffer > -0n17 + @r9 << @rdi << $buffer)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+14895
+ while  (0n18 << $buffer << @rbp == 0n18 << $buffer << @rbp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+14986
+ while  (0x5 + @rbx >> @rsp << $buffer >> +$teb >= 0x5 + @rbx >> @rsp << $buffer >> +$teb)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+15140
+ while  ((@rdx) << 0x1 << 0n9 >= @rdi + @r13)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+15147
+ while  (@rdi >> $ip > @rdi >> $ip)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+15190
+ while  (@rsi >> 5 < @rsi >> 5)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+15200
+ while  (@rdx << $teb << 0xF >> ~$teb > @rdx << $teb << 0xF >> ~$teb)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+15213
+ while  (@rax << @rbx << @rbx < $proc + @rax >> -@rbx >> @rbx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+15239
+ while  ($teb + @r13 >> 20 << @rbx != $teb + @r13 >> 20 << @rbx)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+15269
+ while  (0x8 + 0x1 >> $teb >> 0x12 >= 0x8 + 0x1 >> $teb >> 0x12)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+15356
+ while  ($teb >= $teb)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+15403
+ while  ($teb >> 0n6 >= $teb >> 0n6)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+15436
+ while  (0n13 + @r8 >> 0y10010 >> 0n6 >> 0n17 != $proc + @r13)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+15441
+ while  (+@r8 + 0y1001 >> 0x12 > +@r8 + 0y1001 >> 0x12)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+15467
+ while  (@r8 + $ip >> @rbp == @r8 + $ip >> @rbp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+15488
+ while  (@rbx >> $teb << $ip <= @rbx >> $teb << $ip)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+15515
+ while  ($buffer + $teb >> $buffer >> @r8 >> 0n12 == $buffer + $teb >> $buffer >> @r8 >> 0n12)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+15545
+ while  (+@r12 << @r11 << @rdx >> ~+@rsp > +@r12 << @r11 << @rdx >> ~+@rsp)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+15652
+ while  (~0y1101 == ~0y1101)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+15712
+ while  (@rsp >> @r13 >> ($thread) != @rsp >> @r13 >> ($thread))  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+0
+$end$
+15782
+ while  (@rbp + @rbp << @r11 >> 0xD == @rbp + @rbp << @r11 >> 0xD)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
+15792
+ while  (@r10 + $proc << +@r9 >> $buffer << @r13 >> @r13 >> @r13 <= @r10 >> @rdi >> $thread)  { tmp_counter = tmp_counter + 1; if (tmp_counter >= 0x1000) { break; } }
+1000
+$end$
